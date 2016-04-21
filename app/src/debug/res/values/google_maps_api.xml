@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=16:BA:0C:E4:9E:68:A6:F3:B5:33:E6:DE:36:D5:64:16:23:5D:CB:22%3Bcom.doesnotscale.android.mysuperradandroidapp
+
+    You can also add your credentials to an existing key, using this line:
+    16:BA:0C:E4:9E:68:A6:F3:B5:33:E6:DE:36:D5:64:16:23:5D:CB:22;com.doesnotscale.android.mysuperradandroidapp
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAJwfGn5rOMSV90A-iNjT0SXNX5RFRGozw
+    </string>
+</resources>
